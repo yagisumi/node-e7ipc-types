@@ -2,6 +2,8 @@
 
 ipc interfaces
 
+[![NPM version][npm-image]][npm-url]
+
 ## Installation
 
 ```
@@ -32,3 +34,5 @@ export interface Client<Req, Res> {
 
 MIT
 
+[npm-image]: https://img.shields.io/npm/v/@yagisumi/e7ipc-types.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/@yagisumi/e7ipc-types
