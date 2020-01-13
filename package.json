@@ -1,0 +1,16 @@
+{
+  "name": "@yagisumi/e7ipc-types",
+  "version": "0.1.0",
+  "description": "ipc interfaces",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yagisumi",
+  "license": "MIT",
+  "repository": "github:yagisumi/node-e7ipc-types",
+  "homepage": "http://github.com/yagisumi/node-e7ipc-types#readme"
+
+}
