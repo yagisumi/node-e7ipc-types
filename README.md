@@ -10,11 +10,7 @@ ipc interfaces
 npm i @yagisumi/e7ipc-types
 ```
 
-## Usage
-
-```
-import { Handler, Responder, Transmitter } from '@yagisumi/e-ipc-types'
-```
+## Definition
 
 ```ts
 export type Handler<Req, Res> = (event: {}, req: Req) => Promise<Res>
